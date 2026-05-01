@@ -10,7 +10,6 @@ A simple and clean Python tool to fetch detailed information about any IP addres
 * 📡 Detect ISP / Organization
 * 🧭 Coordinates (Latitude & Longitude)
 * 🕒 Timezone information
-* 🎨 Colored terminal output for better readability
 
 ---
 
@@ -43,7 +42,7 @@ Enter IP address: 8.8.8.8
 ## 📸 Demo
 
 <p align="center">
-  <img src="demo.gif" width="600"/>
+  <img src="demo.gif" width="800"/>
 </p>
 
 ---
