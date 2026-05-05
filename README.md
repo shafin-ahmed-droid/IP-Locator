@@ -13,6 +13,15 @@ A simple and clean Python tool to fetch detailed information about any IP addres
 
 ---
 
+## 📸 Demo
+
+<p align="center">
+  <img src="demo.gif" width="800"/>
+</p>
+
+
+---
+
 ## 📦 Requirements
 
 Install dependencies using:
@@ -23,14 +32,8 @@ pip install -r requirements.txt
 
 ---
 
-## 📸 Demo
-
-<p align="center">
-  <img src="demo.gif" width="800"/>
-</p>
 
 
----
 
 ## 🚀 Usage
 
