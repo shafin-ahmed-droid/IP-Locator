@@ -13,7 +13,7 @@ A simple and clean Python tool to fetch detailed information about any IP addres
 
 ---
 
-## 📸 Demo
+## 🎥 Demo
 
 <p align="center">
   <img src="demo.gif" width="800"/>
