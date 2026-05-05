@@ -23,6 +23,15 @@ pip install -r requirements.txt
 
 ---
 
+## 📸 Demo
+
+<p align="center">
+  <img src="demo.gif" width="800"/>
+</p>
+
+
+---
+
 ## 🚀 Usage
 
 Run the script:
@@ -36,14 +45,6 @@ Enter an IP address when prompted:
 ```
 Enter IP address: 8.8.8.8
 ```
-
----
-
-## 📸 Demo
-
-<p align="center">
-  <img src="demo.gif" width="800"/>
-</p>
 
 ---
 
